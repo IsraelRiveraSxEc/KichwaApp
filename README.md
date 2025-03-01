@@ -1,6 +1,6 @@
 # Sistema de Información sobre los Kichwas de Ecuador
 
-Este programa recopila y presenta información sobre el pueblo indígena Kichwa (Quichua) de Ecuador, desarrollado como parte de un proyecto universitario con enfoque en diseño culturalmente sensible.
+Este programa recopila y presenta información sobre el pueblo indígena Kichwa (Quichua) de Ecuador, desarrollado como parte de un proyecto DCU con enfoque en diseño culturalmente sensible.
 
 ## Características
 
